@@ -1,5 +1,5 @@
 # The Adventures of Cezar
-Developers
+Developers <br/>
 *Alarcon, Joshua* <br/>
 *Decena, Nuelyn Jam* <br/>
 *Ebreo, Vener John* <br/>
