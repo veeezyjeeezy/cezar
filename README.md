@@ -1,8 +1,8 @@
 # The Adventures of Cezar
 Developers
-*Alarcon, Joshua*
-*Decena, Nuelyn Jam*
-*Ebreo, Vener John*
+*Alarcon, Joshua* <br/>
+*Decena, Nuelyn Jam* <br/>
+*Ebreo, Vener John* <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Human kind has brought to its knees. The game is all about The Adventures of Cezar. He must survive the Typhoon, Flood, Earthquake and Oil Spills on every oceans of the planet.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Everything that the people of the Earth need to know about these disasters and the proper actions are in the Book of Disaster Risk Reduction and Management, a one and only book that can only be possessed if Cezar finishes the game by killing the main villain of the game, Lord Podrick.
@@ -26,12 +26,12 @@ Developers
 **Lord Podrick** - present only in level 4, atrocious crazy wicked lord, who selfishly coveted the Book and deliberately spilled the oil on every oceans, is protected with toughness, therefore very hard to kill. He is also the mastermind of the oil spill disaster.
 
 ### 4. Controls
-**Up Arrow Key** - Cezar Jump
-**Left Arrow Key** -  Cezar Moves Left
-**Right Arrow Key** - Cezar Moves Right
-**Up Arrow Key + Left Arrow Key**  - Cezar Jumps Left
-**Up Arrow Key + Right Arrow Key**  - Cezar Jumps Right
-**Space Bar** - Cezar Fires a Power
+**Up Arrow Key** - Cezar Jump <br/>
+**Left Arrow Key** -  Cezar Moves Left <br/>
+**Right Arrow Key** - Cezar Moves Right <br/>
+**Up Arrow Key + Left Arrow Key**  - Cezar Jumps Left <br/>
+**Up Arrow Key + Right Arrow Key**  - Cezar Jumps Right <br/>
+**Space Bar** - Cezar Fires a Power <br/>
 
 ### 4. Objectives
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main character of the game is Cezar. He must survive the Typhoon, Flood, Earthquake and Oil Spill. The game has 4 levels. He has 3 lives. He must save all frightened, stranded people on all levels. Everything that they need to know about these disasters and the proper actions are in the Book of Disaster Risk Reduction and Management, a one and only book that can only be possessed if he finishes the game by killing Lord Podrick. This atrocious crazy wicked lord, who selfishly coveted the Book and accidentally spilled the oil and did nothing about it, is protected with toughness, therefore very hard to kill. He is also the mastermind of the oil spill disaster. Nonetheless, if Cezar kills Lord Podrick, he can get the book, and he will have won.
@@ -51,19 +51,19 @@ Developers
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The final level is on the oil spill site. Our hero must avoid the spill. Power ups are scarce in this level. There are no typhoon or earthquake in this level by our hero must watch out! Previous debris on the recent levels also fall in this level, like a rain! The goal in this level is to kill Lord Podrick and get the book. If our hero will finish this level, he will have won this game!
 
 ### 5. Obstacles
-**Spikes** (All Levels) 
-**Holes** (All levels)
-**Falling Garbage** (Level 1, 3 & 4)
-**Falling Wood** (Level 1, 3 & 4)
-**Falling Giant Boulder** (Level 3 & 4)
-**Oil Spillers** (Level 4)
-**Falling Car** (Level 4)
-**Falling House** (Level 4)
+**Spikes** (All Levels) <br/>
+**Holes** (All levels) <br/>
+**Falling Garbage** (Level 1, 3 & 4) <br/>
+**Falling Wood** (Level 1, 3 & 4) <br/>
+**Falling Giant Boulder** (Level 3 & 4) <br/>
+**Oil Spillers** (Level 4) <br/>
+**Falling Car** (Level 4) <br/>
+**Falling House** (Level 4) <br/>
 
 ### 6. Power Ups
-**Fire**  (All level)  –  firing power against obstacles
-**Lotus** (All level) – additional Life
-**Apple** (All Level) –10 seconds of invincibility
-**Clock** (Level 1) – adds an additional 20 seconds
-**Seed** (Level 2) –  It lowers the flood level in 10 feet. 
-**Diamond** (Level 3) – makes the soil stable for 10 seconds
+**Fire**  (All level)  –  firing power against obstacles <br/>
+**Lotus** (All level) – additional Life <br/>
+**Apple** (All Level) –10 seconds of invincibility <br/>
+**Clock** (Level 1) – adds an additional 20 seconds <br/>
+**Seed** (Level 2) –  It lowers the flood level in 10 feet. <br/>
+**Diamond** (Level 3) – makes the soil stable for 10 seconds <br/>
