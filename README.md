@@ -4,24 +4,24 @@ Developers <br/>
 *Decena, Nuelyn Jam* <br/>
 *Ebreo, Vener John* <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Human kind has brought to its knees. The game is all about The Adventures of Cezar. He must survive the Typhoon, Flood, Earthquake and Oil Spills on every oceans of the planet.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Everything that the people of the Earth need to know about these disasters and the proper actions are in the Book of Disaster Risk Reduction and Management, a one and only book that can only be possessed if Cezar finishes the game by killing the main villain of the game, Lord Podrick.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The hero of the game, Cezar, will save Humanity and Planet Earth!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Human kind has brought to its knees. The game is all about The Adventures of Cezar. He must survive the Typhoon, Flood, Earthquake and Oil Spills on every oceans of the planet.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Everything that the people of the Earth need to know about these disasters and the proper actions are in the Book of Disaster Risk Reduction and Management, a one and only book that can only be possessed if Cezar finishes the game by killing the main villain of the game, Lord Podrick.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The hero of the game, Cezar, will save Humanity and Planet Earth!<br/>
 
 ### 1. Genre
-**Platform Type of Game (Platformer)**
+**Platform Type of Game (Platformer)**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type of the game is action-adventure type, most especially platformer type of game. One of the best example platformer game is Super Mario. It also involves guiding a player character or avatar to jump between suspended platforms and/or over obstacles to traverse their environment.
 
 ### 2. Game Platform 
-**Windows PC only**
+**Windows PC only**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The game will run on Windows PC only. The game will be exported as a standalone Desktop Application. Adobe Photoshop will be also utilized to create some sprites that will be used on the game.
 
 ### 3. Bacground Story
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Human kind has brought to its knees. The Earth is constantly battered by the powerful typhoons, dangerous floods, deadly Earthquakes and severe oil spills on every oceans of the planet. Suddenly, the planet becomes a hostile world.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Human kind has brought to its knees. The Earth is constantly battered by the powerful typhoons, dangerous floods, deadly Earthquakes and severe oil spills on every oceans of the planet. Suddenly, the planet becomes a hostile world.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Everyday there are wailing of children, cry of women, and shouting of men. The naive people of the Earth are battered relentlessly, and for almost all of them, they do not know what to do. Yet, in the midst of these misfortunes, there is a realist man named Cezar, who have the sound fortitude to face these disasters. According from the prophecy, Cezar is the promised boyscout who can alleviate the effects of these natural disasters and heal every oceans from the destruction of the most severe oil spill in the history of Humanity, by means of accomplishing a dangerous mission, a game!. He only have two choice, **he will win or he will perish!**
 
 ### 4. Characters
-**Cezar** - our hero, the main character of the Game
+**Cezar** - our hero, the main character of the Game<br/>
 **Stranded People on every Levels** - these all people must be saved by Cezar
 **Lord Podrick** - present only in level 4, atrocious crazy wicked lord, who selfishly coveted the Book and deliberately spilled the oil on every oceans, is protected with toughness, therefore very hard to kill. He is also the mastermind of the oil spill disaster.
 
@@ -34,8 +34,8 @@ Developers <br/>
 **Space Bar** - Cezar Fires a Power <br/>
 
 ### 4. Objectives
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main character of the game is Cezar. He must survive the Typhoon, Flood, Earthquake and Oil Spill. The game has 4 levels. He has 3 lives. He must save all frightened, stranded people on all levels. Everything that they need to know about these disasters and the proper actions are in the Book of Disaster Risk Reduction and Management, a one and only book that can only be possessed if he finishes the game by killing Lord Podrick. This atrocious crazy wicked lord, who selfishly coveted the Book and accidentally spilled the oil and did nothing about it, is protected with toughness, therefore very hard to kill. He is also the mastermind of the oil spill disaster. Nonetheless, if Cezar kills Lord Podrick, he can get the book, and he will have won.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The hero of the Game, Cezar, will save Humanity and Planet Earth!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main character of the game is Cezar. He must survive the Typhoon, Flood, Earthquake and Oil Spill. The game has 4 levels. He has 3 lives. He must save all frightened, stranded people on all levels. Everything that they need to know about these disasters and the proper actions are in the Book of Disaster Risk Reduction and Management, a one and only book that can only be possessed if he finishes the game by killing Lord Podrick. This atrocious crazy wicked lord, who selfishly coveted the Book and accidentally spilled the oil and did nothing about it, is protected with toughness, therefore very hard to kill. He is also the mastermind of the oil spill disaster. Nonetheless, if Cezar kills Lord Podrick, he can get the book, and he will have won.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The hero of the Game, Cezar, will save Humanity and Planet Earth!<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obviously, the game will be over if any of these objectives are not met. 
 
 ### 4.1 Game Level Objectives
