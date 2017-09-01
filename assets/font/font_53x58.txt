@@ -1,0 +1,54 @@
+﻿Import the relevant data below into Construct2/3.
+
+################################################################################
+
+Character width: 53
+Character height: 58
+Character set: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&()[]|`\/@°+=*$£€<>%
+
+################################################################################
+Construct 3 ONLY.
+Copy the following JSON text and paste into the 'Spacing data' property of the SpriteFont. No extra coding is required!
+
+[[18," "],[13,"|"],[15,"Iijl.:!"],[17,"()°"],[18,",;'"],[20,"[]"],[21,"1`"],[23,"\""],[24,"r*"],[25,"-"],[26,"Jft"],[27,"EFLs"],[28,"\\/"],[29,"c"],[30,"hknuvyz25?"],[31,"ST37~#€"],[32,"Rabegopqx689$"],[33,"BPd<>"],[34,"CYZ_"],[35,"K0+="],[36,"DVX"],[37,"AHNU4£"],[38,"&"],[39,"G%"],[40,"O"],[41,"Q"],[42,"@"],[44,"w"],[45,"m"],[47,"M"],[51,"W"]]
+
+################################################################################
+Construct 2 ONLY.
+Copy the following JSON text and paste into the Array.Load command INSIDE the default quotes.
+
+{""c2array"":true,""size"":[2,31,1],""data"":[[[18],[13],[15],[17],[18],[20],[21],[23],[24],[25],[26],[27],[28],[29],[30],[31],[32],[33],[34],[35],[36],[37],[38],[39],[40],[41],[42],[44],[45],[47],[51]],[["" ""],[""|""],[""Iijl.:!""],[""()°""],["",;'""],[""[]""],[""1`""],[""\""""],[""r*""],[""-""],[""Jft""],[""EFLs""],[""\\/""],[""c""],[""hknuvyz25?""],[""ST37~#€""],[""Rabegopqx689$""],[""BPd<>""],[""CYZ_""],[""K0+=""],[""DVX""],[""AHNU4£""],[""&""],[""G%""],[""O""],[""Q""],[""@""],[""w""],[""m""],[""M""],[""W""]]]}
+
+################################################################################
+These are the details for building the character widths manually, with the SpriteFont  'Set character width' action.
+
+18	" "
+13	"|"
+15	"Iijl.:!"
+17	"()°"
+18	",;'"
+20	"[]"
+21	"1`"
+23	""""
+24	"r*"
+25	"-"
+26	"Jft"
+27	"EFLs"
+28	"\/"
+29	"c"
+30	"hknuvyz25?"
+31	"ST37~#€"
+32	"Rabegopqx689$"
+33	"BPd<>"
+34	"CYZ_"
+35	"K0+="
+36	"DVX"
+37	"AHNU4£"
+38	"&"
+39	"G%"
+40	"O"
+41	"Q"
+42	"@"
+44	"w"
+45	"m"
+47	"M"
+51	"W"
